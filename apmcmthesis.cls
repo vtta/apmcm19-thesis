@@ -1,4 +1,6 @@
 % !Mode:: "TeX:UTF-8"
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
 %%
 %% 2019年第九届APMCM亚太地区大学生数学建模竞赛论文LaTeX模版的类文件
 %%
